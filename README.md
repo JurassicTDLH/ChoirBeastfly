@@ -16,3 +16,5 @@ How to Use:
 3.Download the .zip file from one of the sources listed above.
 4.Extract the .zip file to the generated plugins folder.
 5.Launch the game and enjoy!
+
+Nexus Download Page:https://www.nexusmods.com/hollowknightsilksong/mods/792
